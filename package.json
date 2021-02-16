@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "index.js",
   "repository": "git@github.com:rivendale/KidMemories.git",
-  "author": "Michael Klaus <michael.klaus@gmx.net>",
+  "author": "Michael Klaus <mkit.de@gmail.com>",
   "license": "MIT",
   "scripts": {
     "test": "jest"
